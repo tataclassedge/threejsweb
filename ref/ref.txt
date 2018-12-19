@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/11577147/how-to-fix-page-404-on-github-page
+
+git branch gh-pages
+git push origin gh-pages
